@@ -10,6 +10,20 @@
 composer require coswat/translater
 ```
 
+## Supported Langauges
+
+- English
+- Spanish 
+- Russian
+- Arabic
+- Portuguese
+- German
+- Hindi
+- French
+- Italian
+- Indoneasian
+- Vietnamese 
+
 ## Usage
 
 Example of translating english to spanish
